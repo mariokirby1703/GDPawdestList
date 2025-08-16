@@ -55,7 +55,7 @@ export default {
                             <p>{{ level.password || 'Free to Copy' }}</p>
                         </li>
                     </ul>
-                    <h2>Recowds</h2>
+                    <h2>♡ Pawfowmance Recowds ♡</h2>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
