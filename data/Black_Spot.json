@@ -1,0 +1,18 @@
+{
+    "id": 98611700,
+    "name": "Black Spot",
+    "author": "Plantech",
+    "creators": ["DeveloperCool"],
+    "verifier": "Gabi",
+    "verification": "https://www.youtube.com/watch?v=eGcGAEC2o1s",
+    "percentToQualify": "100",
+    "password": "N/A",
+    "records": [
+        {
+            "user": "Gabi",
+            "link": "",
+            "percent": 100,
+            "hz": "idk"
+        }
+    ]
+}
