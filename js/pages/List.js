@@ -92,6 +92,8 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <br>
+                    <br>
                     <h3>♡ Submish Wequiwe-pawsies uwu ♡</h3>
                     <p>
                         >w< must compwete da pawcowdie whiwe showing youw pwetty wittwe pawsies uwu
